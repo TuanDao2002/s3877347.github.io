@@ -1920,7 +1920,6 @@
 
 .u-section-17 .u-slider-1 {
   min-height: 324px;
-  height: auto;
   margin: 39px auto 60px 0;
 }
 
@@ -1989,6 +1988,7 @@
   .u-section-17 .u-slider-1 {
     min-height: 375px;
     margin-top: -72px;
+    height: auto;
     margin-right: initial;
     margin-left: initial;
   }
