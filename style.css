@@ -30,12 +30,13 @@
 
 span.sale{
     font-size: 13px;
-    margin: 20px 0 0 8px;
+    margin: 20px 0 0 7px;
     font-family: 'Montserrat', sans-serif;
     color: cornsilk;
     line-height: 10px;
     font-style: normal;
     font-weight: 900;
+    letter-spacing: 0.05rem;
 }
 
 
