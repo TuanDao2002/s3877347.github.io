@@ -3,8 +3,7 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 100%;
-  
+    width: 100%; 
 }
 
 .box {
@@ -25,18 +24,16 @@
     background-color:  #a9852c;
     border-radius: 100%;
     text-align: center;
-
 }
 
 span.sale{
     font-size: 13px;
-    margin: 20px 0 0 7px;
+    margin: 20px 0 0 8px;
     font-family: 'Montserrat', sans-serif;
     color: cornsilk;
     line-height: 10px;
     font-style: normal;
     font-weight: 900;
-    letter-spacing: 0.05rem;
 }
 
 
@@ -45,6 +42,7 @@ img{
     height: auto;
     margin: 0%;
 }
+
 .box:hover{
     box-shadow: 0px 20px 35px 0px rgba(207, 204, 204, 0.918);
 }
@@ -60,6 +58,7 @@ img{
 .text:hover{
     color: #a9852c; 
 }
+
 strike{
     text-align: center;
     font-weight: 600; 
@@ -68,6 +67,7 @@ strike{
     font-size: 0.8rem;
     line-height: 2;
 }
+
 .price {
     font-family: 'Montserrat', sans-serif; 
     font-weight: 600;
