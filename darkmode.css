@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: black;
 }
 
 .top {
@@ -16,6 +17,7 @@ body {
 .pagename{
     margin-right: 60%;
     margin-top: 5px;
+    color: white;
 }
 
 .changeModeButton {
@@ -26,8 +28,14 @@ body {
 
 #changeMode{
     float: right;
-    border-color: black;
+    border-color: white;
     border-width: 3px;
+    background-color: black;
+    color: white;
+}
+
+#changeMode:hover{
+    background-color: rgb(177, 174, 174);
 }
 
 .flex{
@@ -89,7 +97,7 @@ img:hover{
 #text  {
     text-align: center;
     font-weight: bold;
-    color: black;
+    color: white;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
 }
