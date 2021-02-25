@@ -32,6 +32,7 @@ body {
     border-width: 3px;
     background-color: black;
     color: white;
+    outline: none;
 }
 
 #changeMode:hover{

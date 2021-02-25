@@ -28,6 +28,8 @@ body {
     float: right;
     border-color: black;
     border-width: 3px;
+    outline: none;
+
 }
 
 .flex{
